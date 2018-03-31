@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PROJECT</string>
+    <string name="dataReceived">""</string>
+    <string name="torch">Torch</string>
+    <string name="sound">Sound</string>
+    <string name="ipField">IP</string>
+    <string name="portField">Port</string>
+    <string name="frequencyField">Frequency</string>
+</resources>
